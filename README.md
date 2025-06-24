@@ -2,6 +2,9 @@
 
 A simple, lightweight web-based image upload server designed to work seamlessly with Claude Code. This server allows you to easily transfer screenshots and images from any device to your Claude Code environment.
 
+![image](https://github.com/user-attachments/assets/8cc84095-7fe6-4267-b51d-a6bec935d557)
+
+
 ## Features
 
 - 🖼️ Drag & drop image uploads
