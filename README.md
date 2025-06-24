@@ -66,6 +66,16 @@ ri "image-name.png"
 
 This requires the `ri` (read image) command to be set up in your Claude Code environment.
 
+### Usage
+```
+  ri                     - Start server and list images
+  ri <filename>          - Prepare image for Claude to read
+  ri --server            - Just start the image server
+  ri --stop              - Stop the image server
+  ri --status            - Check server status
+  ri --help              - Show this help
+```
+
 ## Configuration
 
 You can modify these settings in the script:
