@@ -12,7 +12,7 @@ import socket
 from datetime import datetime
 import json
 
-UPLOAD_DIR = "/home/jason/projects/Elegant_Man/screenshots"
+UPLOAD_DIR = "/home/jason/screenshots"
 PORT = 8888
 
 class UploadHandler(BaseHTTPRequestHandler):
